@@ -1,3 +1,3 @@
 # MK IT Consulting
 
-https://www.mkitconsulting.ui
+https://www.mkitconsulting.io
